@@ -1,0 +1,2 @@
+# Bot
+istedimi yazarım
